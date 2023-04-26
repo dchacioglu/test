@@ -5,7 +5,7 @@
 
 int main() {
 
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT mesaj*/
     int t;
     scanf("%d", &t);
     int i = 0;
