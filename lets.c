@@ -9,7 +9,7 @@ int main() {
     int t;
     scanf("%d", &t);
     int i = 0;
-    
+    //
     while(i<t)
     {
             char x[100];
